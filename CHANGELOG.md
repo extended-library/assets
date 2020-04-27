@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/js-standards/assets/compare/v1.0.1...v1.0.2) (2020-04-27)
+
+
+### Bug Fixes
+
+* **docs:** fix wrong deps link ([ca99b46](https://github.com/js-standards/assets/commit/ca99b46e92592ecc5cfb8a754974fb0ee8e00555))
+
 ## [1.0.1](https://github.com/js-standards/assets/compare/v1.0.0...v1.0.1) (2020-04-27)
 
 

@@ -12,7 +12,7 @@ task('build:copy-files', async () => {
     path('@/LICENSE*')
   ])
     .pipe(debug())
-    .pipe(dest(path('@/dist/brand')))
+    .pipe(dest(path('@/dist')))
 })
 
 task('build:logo', async () => {

@@ -51,7 +51,7 @@
 - **Yarn:**
 
   ```bash
-  yarn add @nodewell/path -dev
+  yarn add @nodewell/path --dev
   ```
 
 ## Usage

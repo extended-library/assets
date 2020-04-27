@@ -9,7 +9,7 @@
   <!-- CI badge -->
   <a href="https://github.com/js-standards/assets/actions?query=workflow%3Aci"><img src="https://github.com/js-standards/assets/workflows/ci/badge.svg?style=flat-square" alt="ci-badge"></a>
   <!-- Dependency badge -->
-  <a href="https://david-dm.org/standards/assets"><img src="https://img.shields.io/badge/dependabot-enabled-brightgreen.svg?style=flat-square" alt="dependency-badge"></a>
+  <a href="https://libraries.io/github/js-standards/assets"><img src="https://img.shields.io/badge/dependabot-enabled-brightgreen.svg?style=flat-square" alt="dependency-badge"></a>
   <!-- Contribution badge -->
   <a href="https://github.com/js-standards/assets/blob/master/.github/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="contribution-badge"></a>
 </p>

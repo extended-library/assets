@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/js-standards/assets/compare/v1.0.0...v1.0.1) (2020-04-27)
+
+
+### Bug Fixes
+
+* **build:** fix README.md and LICENSE.md dist build issue ([3177cc5](https://github.com/js-standards/assets/commit/3177cc5afe35b1ea77e455000bb59e8a1fcd59c8))
+* **docs:** fix typo ([79627f7](https://github.com/js-standards/assets/commit/79627f7a283653cc50111645175c6375cb0f5b0e))
+
 # 1.0.0 (2020-04-27)
 
 

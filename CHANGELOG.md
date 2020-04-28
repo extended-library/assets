@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/js-standards/assets/compare/v1.0.2...v1.0.3) (2020-04-28)
+
+
+### Bug Fixes
+
+* **docs:** fix name and contribution typos ([297199f](https://github.com/js-standards/assets/commit/297199ffd2fa8a215a9fb253b1b26dae310f0884))
+
 ## [1.0.2](https://github.com/js-standards/assets/compare/v1.0.1...v1.0.2) (2020-04-27)
 
 

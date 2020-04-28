@@ -9,7 +9,7 @@ Please fill out these sections accordingly. Thank you in advance!
 
 Please check if your pull request fulfills the following requirements:
 
-- [ ] The commit message follows the guidelines: https://github.com/nodewell/path/blob/master/.github/CONTRIBUTING.md
+- [ ] The commit message follows the guidelines: https://github.com/js-standards/assets/blob/master/.github/CONTRIBUTING.md
 - [ ] Tests for the changes have been added *(for bug fixes / features)*
 - [ ] Docs have been added / updated *(for bug fixes / features)*
 

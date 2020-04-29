@@ -45,13 +45,13 @@
 - **NPM:**
 
   ```bash
-  npm install @nodewell/path --save-dev
+  npm install @standards/assets --save-dev
   ```
 
 - **Yarn:**
 
   ```bash
-  yarn add @nodewell/path --dev
+  yarn add @standards/assets --dev
   ```
 
 ## Usage

@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/js-standards/assets/compare/v1.0.3...v1.0.4) (2020-04-29)
+
+
+### Bug Fixes
+
+* **docs:** fix installation typo ([708be8d](https://github.com/js-standards/assets/commit/708be8de810718a1106fcd6a2939a82dc8f8914e))
+
 ## [1.0.3](https://github.com/js-standards/assets/compare/v1.0.2...v1.0.3) (2020-04-28)
 
 

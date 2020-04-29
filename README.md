@@ -89,10 +89,6 @@ the	[**CC-BY-4.0**][url-license-cc4] license.
 
   <!--- References ============================================================================ -->
 
-  <!--- Colors -->
-  [color-standards-green]: https://img.shields.io/badge/-%2369B247-69B247.svg?style=for-the-badge
-  [color-standards-gray]:  https://img.shields.io/badge/-%23424344-424344.svg?style=for-the-badge
-  
   <!--- Images -->
   [image-cc4]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
